@@ -2,6 +2,7 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 import path from 'path'
 
+// GitHub Pages base path for deployment
 export default defineConfig({
   base: '/evopeopleod/',
   plugins: [react()],

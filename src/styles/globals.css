@@ -1,0 +1,192 @@
+/* Global Styles - Globals */
+@layer base {
+  /* Typography Hierarchy */
+  h1 {
+    @apply text-5xl font-bold leading-tight tracking-tight text-slate-900;
+  }
+
+  h2 {
+    @apply text-4xl font-bold leading-tight tracking-tight text-slate-900;
+  }
+
+  h3 {
+    @apply text-3xl font-semibold leading-snug tracking-tight text-slate-900;
+  }
+
+  h4 {
+    @apply text-2xl font-semibold leading-snug text-slate-900;
+  }
+
+  h5 {
+    @apply text-xl font-semibold leading-normal text-slate-900;
+  }
+
+  h6 {
+    @apply text-lg font-semibold leading-normal text-slate-900;
+  }
+
+  p {
+    @apply text-base leading-relaxed text-slate-700;
+  }
+
+  small {
+    @apply text-sm leading-normal text-slate-600;
+  }
+
+  code {
+    @apply font-mono text-sm bg-slate-100 text-red-600 px-2 py-1 rounded;
+  }
+
+  pre {
+    @apply font-mono text-sm bg-slate-900 text-slate-100 p-4 rounded-lg overflow-x-auto;
+  }
+
+  /* Form Elements */
+  input,
+  textarea,
+  select {
+    font-family: inherit;
+    font-size: inherit;
+  }
+
+  button {
+    font-family: inherit;
+    font-size: inherit;
+  }
+
+  /* Links */
+  a {
+    @apply text-emerald-600 hover:text-emerald-700 transition-colors duration-200;
+  }
+
+  /* Lists */
+  ul,
+  ol {
+    @apply ml-6;
+  }
+
+  li {
+    @apply mb-2;
+  }
+}
+
+/* Body and Root Styles */
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-slate-50 text-slate-900 font-sans;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  * {
+    @apply border-slate-200;
+  }
+}
+
+/* Custom Utility Classes */
+@layer components {
+  /* Containers */
+  .container-base {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  .container-sm {
+    @apply max-w-5xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  .container-lg {
+    @apply max-w-full mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  /* Sections */
+  .section-padding {
+    @apply py-12 sm:py-16 lg:py-20;
+  }
+
+  .section-padding-sm {
+    @apply py-8 sm:py-12;
+  }
+
+  .section-padding-lg {
+    @apply py-16 sm:py-24 lg:py-32;
+  }
+
+  /* Text Utilities */
+  .text-gradient {
+    @apply bg-gradient-to-r from-emerald-600 to-amber-500 bg-clip-text text-transparent;
+  }
+
+  .text-truncate {
+    @apply overflow-hidden text-ellipsis whitespace-nowrap;
+  }
+
+  /* Flex Utilities */
+  .flex-center {
+    @apply flex items-center justify-center;
+  }
+
+  .flex-between {
+    @apply flex items-center justify-between;
+  }
+
+  /* Transition Utilities */
+  .transition-base {
+    @apply transition duration-200 ease-in-out;
+  }
+
+  .transition-fast {
+    @apply transition duration-100 ease-in-out;
+  }
+
+  .transition-slow {
+    @apply transition duration-300 ease-in-out;
+  }
+
+  /* Focus Utilities */
+  .focus-ring {
+    @apply focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2;
+  }
+
+  /* Disabled States */
+  .disabled-state {
+    @apply opacity-50 cursor-not-allowed;
+  }
+
+  /* Responsive Images */
+  .img-responsive {
+    @apply w-full h-auto;
+  }
+
+  /* Skeleton Loader */
+  .skeleton {
+    @apply animate-pulse bg-slate-200;
+  }
+
+  /* Accessibility */
+  .sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border-width: 0;
+  }
+
+  .sr-only-focusable:focus {
+    position: relative;
+    width: auto;
+    height: auto;
+    padding: inherit;
+    margin: inherit;
+    overflow: visible;
+    clip: auto;
+    white-space: normal;
+  }
+}

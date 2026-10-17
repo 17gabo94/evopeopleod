@@ -1,0 +1,85 @@
+{
+  "common": {
+    "siteName": "EvoPeople OD Consulting",
+    "tagline": "Transforming Talent. Enabling Leadership. Driving Organizational Excellence.",
+    "email": "contacto@evopeopleod.com",
+    "location": "Ciudad de México, México",
+    "founder": "Cristina Segura",
+    "founderRole": "Strategic Partner in Talent, Leadership & Organizational Development"
+  },
+  "homepage": {
+    "heroHeadline": "Transformando Talento. Habilitando Liderazgo. Impulsando Excelencia Organizacional.",
+    "heroSubheading": "EvoPeople OD Consulting es una firma especializada en Desarrollo Organizacional, Gestión Estratégica del Talento y Transformación Cultural.",
+    "heroIntro": "Ayudamos a las organizaciones a fortalecer sus capacidades de liderazgo, desarrollar talento clave y construir culturas que impulsen resultados sostenibles para el negocio.",
+    "heroCTA": "Explorar Servicios",
+    "value1Title": "Visión Estratégica",
+    "value1Description": "Alineamos las prioridades de negocio con el desarrollo del talento",
+    "value2Title": "Ejecución Práctica",
+    "value2Description": "Experiencia corporativa integrada con disciplina de ejecución",
+    "value3Title": "Impacto Medible",
+    "value3Description": "Resultados sostenibles y transformación cultural real",
+    "credibilityExperience": "15+ años de experiencia en Recursos Humanos y Desarrollo Organizacional",
+    "credibilityApproach": "Soluciones personalizadas, orientadas a resultados y acompañamiento cercano de alto impacto",
+    "finalCTAHeadline": "¿Listo para transformar tu organización?",
+    "finalCTASubheading": "Contacta con nosotros para una consulta estratégica",
+    "finalCTAButton": "Iniciar Conversación"
+  },
+  "about": {
+    "philosophyHeadline": "Una visión estratégica para el desarrollo de las organizaciones",
+    "philosophyIntro": "En un entorno empresarial cada vez más dinámico, las organizaciones necesitan estructuras ágiles, líderes preparados y culturas capaces de adaptarse al cambio.",
+    "philosophyBody": "EvoPeople OD Consulting surge con el propósito de acompañar a las empresas en la evolución de sus capacidades organizacionales mediante soluciones especializadas.",
+    "philosophyConclusion": "Nuestro enfoque combina experiencia corporativa, pensamiento estratégico y disciplina de ejecución para generar resultados medibles y sostenibles.",
+    "valuePropositionHeadline": "Nuestra Propuesta de Valor",
+    "valuePropositionBody": "Acompañamos a líderes empresariales y equipos de Recursos Humanos para alinear las prioridades de negocio con el desarrollo del talento y las capacidades organizacionales necesarias para alcanzar sus objetivos.",
+    "valuePropositionConclusion": "Trabajamos como socios estratégicos, diseñando soluciones a la medida que generan valor real para la organización.",
+    "differentiators": [
+      "Más de 15 años de experiencia en Recursos Humanos y Desarrollo Organizacional",
+      "Visión estratégica alineada a resultados de negocio",
+      "Soluciones personalizadas y sostenibles",
+      "Enfoque consultivo y ejecutivo",
+      "Acompañamiento cercano de alto impacto"
+    ],
+    "founderBioName": "Cristina Segura",
+    "founderBioTitle": "Strategic Partner in Talent, Leadership & Organizational Development",
+    "founderBioExperience": "15+ años en Recursos Humanos y Desarrollo Organizacional",
+    "founderBioExpertise": "Desarrollo de liderazgo, gestión estratégica del talento, transformación cultural, diseño organizacional",
+    "processStep1": "Strategic Assessment",
+    "processStep1Description": "Entender desafíos organizacionales",
+    "processStep2": "Solution Design",
+    "processStep2Description": "Diseñar solución personalizada",
+    "processStep3": "Implementation",
+    "processStep3Description": "Acompañamiento cercano en ejecución",
+    "processStep4": "Impact Measurement",
+    "processStep4Description": "Verificar resultados y sostenibilidad"
+  },
+  "services": {
+    "pageTitle": "Nuestros Servicios",
+    "pageDescription": "Descubre nuestros 6 servicios especializados en desarrollo organizacional, liderazgo y gestión de talento."
+  },
+  "contact": {
+    "pageTitle": "Contacta con Nosotros",
+    "pageSubtitle": "Estamos listos para acompañarte en la transformación de tu organización",
+    "headerHeadline": "¿Listo para transformar tu organización?",
+    "headerSubheading": "Estamos aquí para acompañarte",
+    "formNameLabel": "Nombre",
+    "formEmailLabel": "Email",
+    "formCompanyLabel": "Empresa",
+    "formServiceLabel": "Servicio de Interés",
+    "formMessageLabel": "Mensaje",
+    "formSubmitButton": "Enviar mensaje",
+    "formSuccessMessage": "Gracias por tu mensaje. Nos pondremos en contacto pronto.",
+    "formErrorMessage": "Hubo un error al enviar tu mensaje. Por favor intenta de nuevo.",
+    "contactEmail": "contacto@evopeopleod.com",
+    "contactLocation": "Ciudad de México, México",
+    "linkedInLabel": "LinkedIn"
+  },
+  "footer": {
+    "copyright": "© 2024 EvoPeople OD Consulting. Todos los derechos reservados.",
+    "privacyPolicy": "Política de Privacidad"
+  },
+  "notFound": {
+    "headline": "404 - Página no encontrada",
+    "message": "Lo sentimos, la página que buscas no existe.",
+    "button": "Volver al inicio"
+  }
+}

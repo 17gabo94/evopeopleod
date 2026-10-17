@@ -1,0 +1,56 @@
+[
+  {
+    "id": "talent-strategy-od",
+    "title": "Estrategia de Talento y Desarrollo Organizacional",
+    "shortDescription": "Diseñamos soluciones que fortalecen la estructura organizacional",
+    "fullDescription": "Diseñamos soluciones que fortalecen la estructura organizacional y desarrollan las capacidades necesarias para alcanzar los objetivos del negocio.",
+    "keywords": ["organización", "talento", "estrategia", "desarrollo", "estructura"],
+    "engagementModel": "Acompañamiento estratégico en diagnóstico, diseño e implementación",
+    "focusAreas": ["Diseño Organizacional", "Estructura de roles", "Capacidades clave", "Alineación estratégica"]
+  },
+  {
+    "id": "leadership-development",
+    "title": "Leadership Development",
+    "shortDescription": "Desarrollamos líderes capaces de inspirar y movilizar equipos",
+    "fullDescription": "Desarrollamos líderes capaces de inspirar, movilizar equipos y generar resultados en entornos complejos y cambiantes.",
+    "keywords": ["liderazgo", "desarrollo", "inspirar", "movilizar", "resultados"],
+    "engagementModel": "Programas personalizados de desarrollo de liderazgo",
+    "focusAreas": ["Coaching ejecutivo", "Desarrollo de competencias", "Inteligencia emocional", "Liderazgo estratégico"]
+  },
+  {
+    "id": "talent-management",
+    "title": "Talent Management & Succession Planning",
+    "shortDescription": "Identificar, desarrollar y retener talento crítico",
+    "fullDescription": "Ayudamos a las organizaciones a identificar, desarrollar y retener talento crítico.",
+    "keywords": ["talento", "retención", "sucesión", "planificación", "desarrollo"],
+    "engagementModel": "Programas de identificación y desarrollo de talento",
+    "focusAreas": ["Succession planning", "Retención de talento", "Desarrollo de potencial", "Career pathing"]
+  },
+  {
+    "id": "culture-change",
+    "title": "Cultura Organizacional y Gestión del Cambio",
+    "shortDescription": "Facilitamos evolución cultural y adopción de nuevas formas de trabajo",
+    "fullDescription": "Diseñamos estrategias que facilitan la evolución cultural y la adopción de nuevas formas de trabajo.",
+    "keywords": ["cultura", "cambio", "transformación", "evolución", "adopción"],
+    "engagementModel": "Diagnóstico cultural y estrategia de transformación",
+    "focusAreas": ["Diagnóstico cultural", "Change management", "Comunicación", "Enablement"]
+  },
+  {
+    "id": "performance-management",
+    "title": "Performance Management",
+    "shortDescription": "Implementamos modelos orientados a ejecución y desarrollo",
+    "fullDescription": "Implementamos modelos de gestión del desempeño orientados a la ejecución y el desarrollo continuo.",
+    "keywords": ["desempeño", "evaluación", "ejecución", "desarrollo", "resultados"],
+    "engagementModel": "Diseño e implementación de sistemas de gestión del desempeño",
+    "focusAreas": ["Gestión del desempeño", "Evaluación de competencias", "Feedback", "Reconocimiento"]
+  },
+  {
+    "id": "strategic-hr",
+    "title": "Strategic HR Advisory",
+    "shortDescription": "Soporte especializado en Capital Humano y Desarrollo Organizacional",
+    "fullDescription": "Servicio de acompañamiento ejecutivo para organizaciones que requieren soporte especializado en Capital Humano y Desarrollo Organizacional.",
+    "keywords": ["HR", "estrategia", "asesoría", "capital humano", "consultoría"],
+    "engagementModel": "Acompañamiento consultivo personalizado",
+    "focusAreas": ["Estrategia de Capital Humano", "Consultoría ejecutiva", "Implementación", "Sostenibilidad"]
+  }
+]

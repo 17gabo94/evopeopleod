@@ -1,0 +1,78 @@
+{
+  "mainNav": [
+    {
+      "label": "Home",
+      "href": "/",
+      "ariaLabel": "Home - EvoPeople OD Consulting"
+    },
+    {
+      "label": "About",
+      "href": "/about",
+      "ariaLabel": "About Us - EvoPeople OD Consulting"
+    },
+    {
+      "label": "Services",
+      "href": "/services",
+      "ariaLabel": "Our Services - EvoPeople OD Consulting"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact",
+      "ariaLabel": "Contact Us - EvoPeople OD Consulting"
+    }
+  ],
+  "footerNav": [
+    {
+      "label": "Home",
+      "href": "/",
+      "ariaLabel": "Home"
+    },
+    {
+      "label": "Services",
+      "href": "/services",
+      "ariaLabel": "Services"
+    },
+    {
+      "label": "About",
+      "href": "/about",
+      "ariaLabel": "About"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact",
+      "ariaLabel": "Contact"
+    }
+  ],
+  "serviceNav": [
+    {
+      "label": "Talent Strategy & OD",
+      "href": "/services/talent-strategy-od",
+      "ariaLabel": "Estrategia de Talento y Desarrollo Organizacional"
+    },
+    {
+      "label": "Leadership Development",
+      "href": "/services/leadership-development",
+      "ariaLabel": "Leadership Development"
+    },
+    {
+      "label": "Talent Management",
+      "href": "/services/talent-management",
+      "ariaLabel": "Talent Management & Succession Planning"
+    },
+    {
+      "label": "Culture & Change",
+      "href": "/services/culture-change",
+      "ariaLabel": "Cultura Organizacional y Gestión del Cambio"
+    },
+    {
+      "label": "Performance Management",
+      "href": "/services/performance-management",
+      "ariaLabel": "Performance Management"
+    },
+    {
+      "label": "Strategic HR",
+      "href": "/services/strategic-hr",
+      "ariaLabel": "Strategic HR Advisory"
+    }
+  ]
+}

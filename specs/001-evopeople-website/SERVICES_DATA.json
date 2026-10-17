@@ -1,0 +1,38 @@
+[
+  {
+    "id": "talent-strategy-od",
+    "title": "Estrategia de Talento y Desarrollo Organizacional",
+    "description": "Diseñamos soluciones que fortalecen la estructura organizacional y desarrollan las capacidades necesarias para alcanzar los objetivos del negocio.",
+    "keywords": ["organización", "talento", "estrategia", "desarrollo", "estructura"]
+  },
+  {
+    "id": "leadership-development",
+    "title": "Leadership Development",
+    "description": "Desarrollamos líderes capaces de inspirar, movilizar equipos y generar resultados en entornos complejos y cambiantes.",
+    "keywords": ["liderazgo", "desarrollo", "inspirar", "movilizar", "resultados"]
+  },
+  {
+    "id": "talent-management",
+    "title": "Talent Management & Succession Planning",
+    "description": "Ayudamos a las organizaciones a identificar, desarrollar y retener talento crítico.",
+    "keywords": ["talento", "retención", "sucesión", "planificación", "desarrollo"]
+  },
+  {
+    "id": "culture-change",
+    "title": "Cultura Organizacional y Gestión del Cambio",
+    "description": "Diseñamos estrategias que facilitan la evolución cultural y la adopción de nuevas formas de trabajo.",
+    "keywords": ["cultura", "cambio", "transformación", "evolución", "adopción"]
+  },
+  {
+    "id": "performance-management",
+    "title": "Performance Management",
+    "description": "Implementamos modelos de gestión del desempeño orientados a la ejecución y el desarrollo continuo.",
+    "keywords": ["desempeño", "evaluación", "ejecución", "desarrollo", "resultados"]
+  },
+  {
+    "id": "strategic-hr",
+    "title": "Strategic HR Advisory",
+    "description": "Servicio de acompañamiento ejecutivo para organizaciones que requieren soporte especializado en Capital Humano y Desarrollo Organizacional.",
+    "keywords": ["HR", "estrategia", "asesoría", "capital humano", "consultoría"]
+  }
+]

@@ -4,6 +4,9 @@ import Layout from '@/components/Layout/Layout'
 import useScrollToTop from '@/hooks/useScrollToTop'
 import './App.css'
 
+// Get base path from environment or config
+const BASE_PATH = import.meta.env.BASE_URL || '/'
+
 // Lazy load all pages
 const Home = lazy(() => import('@/pages/Home'))
 const About = lazy(() => import('@/pages/About'))
@@ -48,7 +51,7 @@ function AppContent() {
 
 function App() {
   return (
-    <Router>
+    <Router basename={BASE_PATH}>
       <AppContent />
     </Router>
   )

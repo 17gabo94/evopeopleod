@@ -33,6 +33,10 @@ export const initGA4 = (measurementId?: string): void => {
     page_title: document.title,
     allow_google_signals: true,
     allow_ad_personalization_signals: true,
+    // Allow cookies across all domains (github pages, localhost, production)
+    cookie_domain: 'auto',
+    // Disable secure cookie requirement for development/testing
+    anonymize_ip: false,
   })
 }
 
